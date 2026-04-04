@@ -1,4 +1,4 @@
-# SQL LAB - EXPERIMENT 2
+# SQL LAB - EXPERIMENT 3
 ## AIM:- 
 To retrieve and filter employee data using SQL queries with sorting, pattern matching and salary-based conditions.
 ## 1. List all employees and jobs in Department 30 in descending order by salary.
