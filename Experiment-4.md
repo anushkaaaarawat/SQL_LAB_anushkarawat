@@ -1,4 +1,4 @@
-# SQL LAB - EXPERIMENT 2
+# SQL LAB - EXPERIMENT 4
 ## AIM:- 
 To perform various SQL queries on the **EMPLOYEE** table to retrieve, filter, and manipulate data using different SQL clauses such as WHERE, LIKE, IN, BETWEEN, ORDER BY, and aggregate calculations.
 ## 1. Display the list of employees who have joined the company before 30th June 80 or after 31st Dec 81. 
